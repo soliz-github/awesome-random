@@ -1,4 +1,4 @@
-﻿# My awesome-random!!
+# My awesome-random!!
 
 ## Welcome
 
@@ -458,3 +458,7 @@ first
 
 ## Best keyboard layouts
 - Dvorak (there are dozens of us) - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
+
+## Best Latin food
+- Bandeja paisa - Colombia
+- Salteñas - Bolivia
